@@ -1,2 +1,2 @@
 console.log('config.js');
-console.log('version 20');
+console.log('version final');
